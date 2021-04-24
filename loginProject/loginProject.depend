@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618408278 source:d:\degree in computer science full course\my youtube tutorials\c++\programs\loginproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
